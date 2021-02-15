@@ -4,7 +4,7 @@
 Here is what I'm working on:
 
 - 🔭 I’m currently working on ... The Web Developer Bootcamp on Udemy
-- 🌱 I’m currently learning ... Node JS
+- 🌱 I’m currently learning ... RESTful routes and MongoDB
 - 💬 Ask me about ... anything!
 - 📫 How to reach me: ... lesleygirao@gmail.com
 - 😄 Pronouns: ... she/her
