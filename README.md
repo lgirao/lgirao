@@ -8,5 +8,5 @@ Here is what I'm working on:
 - 💬 Ask me about ... anything!
 - 📫 How to reach me: ... lesleygirao@gmail.com
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... The dot over the lower case "i" or "j" is known as a "tittle."
+- ⚡ Fun fact: ... The odds of being born on Feb. 29 are about 1 in 1,461.
 -->
