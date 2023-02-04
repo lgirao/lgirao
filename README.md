@@ -9,5 +9,4 @@ Here is what I'm working on:
 - 📫 How to reach me: ... lesleygirao@gmail.com
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... The odds of being born on Feb. 29 are about 1 in 1,461.
-- Follow along on topics I find interesting and useful on Instagram: @code4freedom 
 -->
