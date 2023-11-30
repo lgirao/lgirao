@@ -3,7 +3,7 @@
 
 Here is what I'm working on:
 
-- 🔭 I’m currently working on ... Work! I am a Web Developer!
+- 🔭 I’m currently working on ... Strengthening my skills as a Web Developer!
 - 🌱 I’m currently learning ... JavaScript. Forever and always.
 - 💬 Ask me about ... baking! Let's share recipes :)
 - 📫 How to reach me: ... lesleygirao@gmail.com
